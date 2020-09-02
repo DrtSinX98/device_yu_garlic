@@ -1,0 +1,18 @@
+[
+  {
+    "repository" : "kernel_tinno_msm8937",
+    "target_path": "kernel/tinno/msm8937"
+  },
+  {
+    "repository" : "vendor_yu",
+    "target_path": "vendor/yu"
+  },
+  {
+    "repository" : "vendor_tinno",
+    "target_path": "vendor/tinno"
+  },
+  {
+    "repository" : "device_tinno_msm8937-common",
+    "target_path": "device/tinno/msm8937-common"
+  }
+]

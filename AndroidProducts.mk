@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_garlic.mk
+    $(LOCAL_DIR)/cesium_garlic.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_garlic-eng \
-    aosp_garlic-user \
-    aosp_garlic-userdebug
+    cesium_garlic-eng \
+    cesium_garlic-user \
+    cesium_garlic-userdebug
